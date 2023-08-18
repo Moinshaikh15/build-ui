@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import data from "../../data.json";
 import ArticleCard from "./ArticleCard";
-import './article.css'
+import "./article.css";
 export default function Articles() {
   const [articles, setArticles] = useState([]);
   const [totalPages, setTotalPages] = useState(0);
@@ -47,13 +47,13 @@ export default function Articles() {
 
       <div className="pagination">
         <button onClick={prevPage} disabled={currentPage === 1}>
-        &lt;
+          &lt;
         </button>
         <span>
           {currentPage}/{totalPages}
         </span>
         <button onClick={nextPage} disabled={currentPage === totalPages}>
-        &gt;
+          &gt;
         </button>
       </div>
     </div>

@@ -1,5 +1,5 @@
 import React from "react";
-import './footer.css'
+import "./footer.css";
 export default function Footer() {
   return (
     <div className="footer">
@@ -37,6 +37,7 @@ export default function Footer() {
             height="13"
             viewBox="0 0 12 13"
             fill="none"
+            alt="Instagram icon"
           >
             <path
               fill-rule="evenodd"
@@ -52,6 +53,7 @@ export default function Footer() {
             height="13"
             viewBox="0 0 12 13"
             fill="none"
+            alt="twitter icon"
           >
             <path
               fill-rule="evenodd"
@@ -68,6 +70,7 @@ export default function Footer() {
             height="13"
             viewBox="0 0 12 13"
             fill="none"
+            alt="meta icon"
           >
             <path
               fill-rule="evenodd"
