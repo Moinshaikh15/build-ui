@@ -1,0 +1,14 @@
+.app {
+  min-width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background: #f0f1f7;
+}
+
+
+button {
+  cursor: pointer;
+}

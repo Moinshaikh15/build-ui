@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "Title": "Grilled Tomatoes at Home",
+      "Description": "PLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley....",
+      "image": "/tomatoes.jpeg"
+    },
+    {
+      "Title": "Snacks for Travel",
+      "Description": "PLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley....",
+      "image": "/snacks.jpeg"
+    },
+    {
+      "Title": "Post-workout Recipes",
+      "Description": "PLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley....",
+      "image": "/post-workout.jpeg"
+    },
+    {
+      "Title": "How to Grill Corn",
+      "Description": "PLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley....",
+      "image": "/corn.jpeg"
+    },
+    {
+      "Title": "Crunchwrap Supreme",
+      "Description": "PLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley....",
+      "image": "/wraps.jpeg"
+    },
+    {
+      "Title": "Broccoli Cheese Soup",
+      "Description": "PLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley....",
+      "image": "/broccoli-soup.jpeg"
+    }
+  ]
+}
